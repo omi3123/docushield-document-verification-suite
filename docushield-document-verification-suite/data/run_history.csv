@@ -1,0 +1,9 @@
+timestamp,asset_name,pages,qr_decoded,barcode_candidates,stamp_regions,signature_regions,text_zones,risk_score,status
+2026-04-11 09:18:00,sample_invoice_full.png,1,1,1,1,1,8,16,verified
+2026-04-11 10:42:00,sample_receipt_qr.png,1,1,0,0,0,7,24,review
+2026-04-12 11:24:00,sample_invoice_no_qr.png,1,0,1,1,1,7,48,review
+2026-04-13 14:08:00,sample_invoice_full.pdf,1,1,1,1,1,8,14,verified
+2026-04-21 21:07:09,sample_invoice_full.png,1,1,3,2,3,7,8,verified
+2026-04-21 21:07:31,WhatsApp Image 2026-04-21 at 19.44.56.jpeg,1,0,2,0,1,4,45,review
+2026-04-21 21:07:34,sample_invoice_full.png,1,1,3,2,3,7,8,verified
+2026-04-21 21:08:15,WhatsApp Image 2026-04-21 at 19.44.56.jpeg,1,0,2,0,1,4,45,review
